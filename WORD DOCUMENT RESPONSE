@@ -1,0 +1,44 @@
+          
+ENGR005
+Instructor: Dr. Jannatun Naher
+Fall 2024 
+
+ECE Lab#3 Week 3. Using Tempertaure sensors 
+
+The purpose of this lab is to give you an idea of how to use sensors. Please answer the following questions. 
+
+
+1.	What is the purpose of this experiment?
+To learn how to use sensors and what they are.
+2.	What do you understand by "sensors"?
+Sensors are things that give you a reading for current or voltage, and depending on which you are looking for you have to do different things.
+
+3.	What do you understand by "electrical parameters"?
+They are measurable characteristics of an electrical circuit
+4.	What is the measured temperature for the internal temperature sensors?
+28 celsius 
+5.	Build the circuit and take a picture of the external temperature sensors.
+
+6.	What is the procedure to measure voltage, current, and resistance? Take a picture of your lab task and explain.
+To measure the part of the breadboard around the circuit and then touch the resistor and the place next to circuit
+7.	Measure the voltage drop for your temperature sensor and across the resistor. Calculate the voltage drop across the sensor using the ADC formula. Do your measured and calculated values match the sensor?
+1.5 volts 
+8.	Measure the current through the temperature sensor. What is the value?
+.2 milliamps
+9.	Calculate the resistance value from the current and voltage measurements. What is the value?
+7.5
+10.	What is the measured temperature for the internal and external temperature sensors?
+50
+11.	What is the calibration formula for the external temperature sensor?
+Correct temp = (reading-offset)*slope +ref temp
+12.	What are the safety rules for the lab?
+•	Safety rules: 
+1.	Please refrain from unsafe acts:
+a.	DO NOT stand on stools;
+b.	DO NOT point sharp objects or tools at people;
+c.	DO NOT drop metal objects on any electrical circuit that is powered on.
+2.	When testing the race car, make sure the car sits on a solid stand and would not fall off even when the wheels are turning;
+3.	Please use safety glasses and/or gloves when soldering or working with power-line voltage projects.
+4.	Do not let power lines or ethernet cables run across a large space or on floor without protection; 
+5.	Turn off power switches when you need to disconnect any components from the car;
+6.	All DC power sources including batteries are polarized. Normally, red indicates positive voltage and black indicates GND or negative voltage. Make sure the wire colors match before connecting power sources. 
